@@ -6,4 +6,5 @@ _Использованные ресурсы:
 
 
 **data**               https://huggingface.co/datasets/Francesco/sign-language-sokdr?row=4
+
 **haar каскад **       https://github.com/opencv/opencv/tree/master/data/haarcascades
